@@ -1,9 +1,5 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
 
-### <div align="center">I'm Eugeny, Junior Frontend Developer, studying and working remotely since 2020 </div>  
+  ### <div align="center">I'm Eugeny, Junior Frontend Developer, studying and working remotely since 2020 </div>  
   
 
 - ⌨️🖱️ Since 2012, I had experience as a content manager and web administrator in the field of e-commerce. In the process of professional growth, my skills have expanded to such functionality as contextual advertising, web design and layout of website templates, landing pages, banners and other design elements.  
