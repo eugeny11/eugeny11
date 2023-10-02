@@ -5,10 +5,10 @@
 - ⌨️🖱️ Since 2012, I had experience as a content manager and web administrator in the field of e-commerce. In the process of professional growth, my skills have expanded to such functionality as contextual advertising, web design and layout of website templates, landing pages, banners and other design elements.  
   
 
-- 💻Since 2020, I decided to continue my development in the IT field, in the direction of Frontend development. Passed training in the specialty Frontend Developer on the Skillfactory platform, as well as in the educational center "Specialist" at the Moscow State Technical University. Bauman. I am currently looking for a job or internship as a Junior Frontend Developer to gain experience, develop a real working portfolio and grow professionally.  
+- 💻Since 2020, I decided to continue my development in the IT field, in the direction of Frontend development. Passed training in the specialty Frontend Developer on the Skillfactory platform, as well as in the educational center "Specialist" at the Moscow State Technical University. Bauman. At Skillfactory platform I got an experience during the project development, desolving such task as development of Kanboard apps and clientside app of firm, investigating cases of bikes theft.  
   
 
-- 📖In addition to the Skillfactory platform, I drew a lot of practical and theoretical knowledge from YouTube. For example, such channels as Vladilen Minin, Ulbi TV, Webdesign Master, WebAcademy and many others. In the future, I plan to explore many modern add-ons for Typescript and Redux, such as Redux Toolkit, RTK Query, etc. Create full-fledged applications on node.js, along with the backend.  
+- 📖After this, during a six month I got a project work on platfrom Droog. I was involved in development of application for the selection of psychologists. Used such technologies as HTML and SCSS, framework React JS and Redux Toolkit for creating the store of application data. For async interaction with server used the technology of SAGAs, operations of sending and getting user data (requests, answers and comments for questionnaires, token for registration and sign-up), changing of application functionality due to user’s roles (client, psychologist, coordinator, etc.). After the half of year term of this project work is over, I'm continuting to searching the ways of my further evolving in a field of IT and Frontend development.
   
 
 <br/>  
