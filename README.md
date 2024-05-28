@@ -2,13 +2,15 @@
   ### <div align="center">I'm Eugeny, Junior Frontend Developer, studying and working remotely since 2020 </div>  
   
 
-- ⌨️🖱️ Since 2012, I had experience as a content manager and web administrator in the field of e-commerce. In the process of professional growth, my skills have expanded to such functionality as contextual advertising, web design and layout of website templates, landing pages, banners and other design elements.  
+- ⌨️ Since 2012, I have gained experience as a content manager and web administrator in the field of e-commerce. As I progressed professionally, my skills expanded to include contextual advertising, web design, and the creation of website templates, landing pages, banners, and other design elements.
   
 
-- 💻Since 2020, I decided to continue my development in the IT field, in the direction of Frontend development. Passed training in the specialty Frontend Developer on the Skillfactory platform, as well as in the educational center "Specialist" at the Moscow State Technical University. Bauman. At Skillfactory platform I got an experience during the project development, desolving such task as development of Kanboard apps and clientside app of firm, investigating cases of bikes theft.  
+- 💻In 2020, I decided to further my development in the IT field, specifically in Frontend and WordPress development. I also chose to deepen my knowledge in the Frontend domain. I completed training as a Frontend Developer on the Skillfactory platform, as well as at the "Specialist" educational center at Moscow State Technical University, Bauman. During my time at Skillfactory, I gained experience through project development, tackling tasks such as creating Kanboard apps and client-side applications for firms, and investigating cases of bike theft.
   
 
-- 📖After this, during a six month I got a project work on platfrom Droog. I was involved in development of application for the selection of psychologists. Used such technologies as HTML and SCSS, framework React JS and Redux Toolkit for creating the store of application data. For async interaction with server used the technology of SAGAs, operations of sending and getting user data (requests, answers and comments for questionnaires, token for registration and sign-up), changing of application functionality due to user’s roles (client, psychologist, coordinator, etc.). After the half of year term of this project work is over, I'm continuting to searching the ways of my further evolving in a field of IT and Frontend development.
+- 📖Following this, I worked on a project for six months on the Droog platform, where I was involved in developing an application for selecting psychologists. I utilized technologies such as HTML and SCSS, the React JS framework, and Redux Toolkit for managing application data. For asynchronous interaction with the server, I used SAGAs, handling operations like sending and receiving user data (requests, answers, and comments for questionnaires, tokens for registration and sign-up), and modifying application functionality based on user roles (client, psychologist, coordinator, etc.).
+
+  -🖱️In 2022, I founded my own small firm in Serbia, specializing in website creation for small businesses. You can view examples of my work on this site: [Nemeton Webportals Examples](https://nemeton-webportals.co.rs/examples/). This is my main occupation now, and my GitHub profile serves to demonstrate my junior skills in Frontend development.
   
 
 <br/>  
