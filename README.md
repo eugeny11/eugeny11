@@ -1,5 +1,5 @@
 
-  ### <div align="center">I'm Eugeny, Junior Frontend Developer, studying and working remotely since 2020 </div>  
+  ### <div align="center">I'm Eugeny, Junior Web Developer, studying and working remotely since 2020 </div>  
   
 
 - ⌨️ Since 2012, I have gained experience as a content manager and web administrator in the field of e-commerce. As I progressed professionally, my skills expanded to include contextual advertising, web design, and the creation of website templates, landing pages, banners, and other design elements.
