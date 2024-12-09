@@ -10,7 +10,7 @@
 
 - 📖Following this, I worked on a project for six months on the Droog platform, where I was involved in developing an application for selecting psychologists. I utilized technologies such as HTML and SCSS, the React JS framework, and Redux Toolkit for managing application data. For asynchronous interaction with the server, I used SAGAs, handling operations like sending and receiving user data (requests, answers, and comments for questionnaires, tokens for registration and sign-up), and modifying application functionality based on user roles (client, psychologist, coordinator, etc.).
 
-  -🖱️In 2022, I founded my own small firm in Serbia, specializing in website creation for small businesses. You can view examples of my work on this site: [Nemeton Webportals Examples](https://nemeton-webportals.co.rs/examples/). This is my main occupation now, and my GitHub profile serves to demonstrate my junior skills in Frontend development.
+  -🖱️In 2022, I founded my own small firm in Serbia, specializing in website creation for small businesses. You can view examples of my work on this site: [Nemeton Webportals Examples](https://nemeton-webportals.co.rs/examples/). This is my main occupation now, and my GitHub profile serves to demonstrate my skills in Frontend development.
   
 
 <br/>  
