@@ -1,17 +1,57 @@
+# I'm Eugeny, Junior Web Developer and Web Administrator  
 
-  ### <div align="center">I'm Eugeny, Junior Web Developer, studying and working remotely since 2020 </div>  
-  
+Welcome to my GitHub profile! I specialize in building functional, responsive, and visually appealing websites and web applications. My skills span **frontend development**, **web administration**, and **content management**, making me a versatile candidate for a wide range of **Junior Web** positions.  
 
-- ⌨️ Since 2012, I have gained experience as a content manager and web administrator in the field of e-commerce. As I progressed professionally, my skills expanded to include contextual advertising, web design, and the creation of website templates, landing pages, banners, and other design elements.
-  
+---
 
-- 💻In 2020, I decided to further my development in the IT field, specifically in Frontend and WordPress development. I also chose to deepen my knowledge in the Frontend domain. I completed training as a Frontend Developer on the Skillfactory platform, as well as at the "Specialist" educational center at Moscow State Technical University, Bauman. During my time at Skillfactory, I gained experience through project development, tackling tasks such as creating Kanboard apps and client-side applications for firms, and investigating cases of bike theft.
-  
+## 👨‍💻 Professional Journey  
 
-- 📖Following this, I worked on a project for six months on the Droog platform, where I was involved in developing an application for selecting psychologists. I utilized technologies such as HTML and SCSS, the React JS framework, and Redux Toolkit for managing application data. For asynchronous interaction with the server, I used SAGAs, handling operations like sending and receiving user data (requests, answers, and comments for questionnaires, tokens for registration and sign-up), and modifying application functionality based on user roles (client, psychologist, coordinator, etc.).
+- **2012 - 2020:**  
+  Gained experience as a **Content Manager** and **Web Administrator** in the field of e-commerce. I developed skills in contextual advertising, website design, and creating website templates, landing pages, banners, and other design elements.  
 
-  -🖱️In 2022, I founded my own small firm in Serbia, specializing in website creation for small businesses. You can view examples of my work on this site: [Nemeton Webportals Examples](https://nemeton-webportals.co.rs/examples/). This is my main occupation now, and my GitHub profile serves to demonstrate my skills in Frontend development.
-  
+- **2020 - Present:**  
+  Transitioned into the IT field with a focus on **Frontend Development** and **WordPress solutions**. Completed specialized training in web layout and frontend development at the "Specialist" educational center in Moscow and worked on several projects, including:  
+  - Kanban boards and client-side applications.  
+  - Applications for monitoring specific services, such as bike theft.  
+
+- **2022:**  
+  Founded my own firm, **Nemeton Web Portals**, in Serbia, specializing in WordPress-based solutions for small businesses. You can view examples of my work on my **portfolio site**: [Nemeton Webportals Examples](https://nemeton-webportals.co.rs/examples).  
+
+- **Recent Projects:**  
+  - Worked on a psychologist platform app (Droog), utilizing **React**, **Redux Toolkit**, and **Sagas** for asynchronous operations.  
+  - Developed a chess game and other interactive web applications using **TypeScript** and **React**.  
+  - Created a credit card payment simulation app with a focus on form validation and dynamic UI.  
+
+---
+
+## 🔧 Technical Skills  
+
+- **Frontend Development:** HTML, CSS, SCSS, SASS, JavaScript, TypeScript, React  
+- **Frameworks & Libraries:** Redux Toolkit, React Hooks, Vue  
+- **Backend Integrations:** REST API, Redux-Saga for state management  
+- **Web Administration:** WordPress development (custom themes, plugins), Bitrix  
+- **Tools & Technologies:** Git, npm, Webpack, Photoshop, Figma  
+
+---
+
+## 🎯 What I Offer  
+
+- **Web Development Expertise:** I can develop responsive, interactive, and high-performing web applications.  
+- **Web Administration Skills:** With years of WordPress experience, I am well-versed in building and maintaining content-driven websites.  
+- **API Integrations:** I am capable of efficiently integrating external APIs into web applications to enhance functionality.  
+- **Continuous Learning:** I am committed to professional growth and continuously updating my technical knowledge.  
+
+---
+
+## 📌 Let's Connect  
+
+You can reach me via:  
+- **Telegram:** [@follow_the_blind](https://t.me/follow_the_blind)  
+- **Email:** eugenygrannus@aol.com  
+
+Feel free to explore my repositories to see examples of my coding skills and the projects I've worked on. I look forward to collaborating and contributing to innovative web solutions!  
+
+---
 
 <br/>  
 
