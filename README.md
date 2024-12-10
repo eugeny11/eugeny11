@@ -17,11 +17,6 @@ Welcome to my GitHub profile! I specialize in building functional, responsive, a
 - **2022:**  
   Founded my own firm, **Nemeton Web Portals**, in Serbia, specializing in WordPress-based solutions for small businesses. You can view examples of my work on my **portfolio site**: [Nemeton Webportals Examples](https://nemeton-webportals.co.rs/examples).  
 
-- **Recent Projects:**  
-  - Worked on a psychologist platform app (Droog), utilizing **React**, **Redux Toolkit**, and **Sagas** for asynchronous operations.  
-  - Developed a chess game and other interactive web applications using **TypeScript** and **React**.  
-  - Created a credit card payment simulation app with a focus on form validation and dynamic UI.  
-
 ---
 
 ## 🔧 Technical Skills  
